@@ -1,3 +1,7 @@
+<a href="https://github.com/Neilcc">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Neilcc&title_color=222&text_color=333" />
+</a>
+
 ### Hi there 👋
 
 <!--
